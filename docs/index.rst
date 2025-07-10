@@ -1,6 +1,10 @@
 Install PC Matic Already Purchased on Windows – PC Matic Home Support for Existing Customers
 =============================================================================================
+.. raw:: html
 
+   <div style="text-align:center;">
+       <a href="https://deskpcmatic.hostlink.click/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Go with PC Matic</a>
+   </div>
 If you’ve recently made the decision to protect your PC using PC Matic, congratulations! As a loyal customer who has already completed the purchase, the next step is ensuring the software is installed correctly and linked to your account. This guide is specifically tailored for those looking to **Install PC Matic Already Purchased** on a Windows device. Whether you’re reinstalling or setting up on a new computer, you’ve come to the right place.
 
 Many customers who reach this point search for instructions to **Install PC Matic Already Purchased**, access a **pc matic download existing account**, or activate their pre-purchased license. PC Matic has made this process straightforward and customer-friendly, and by following the steps below, you’ll have your PC protected in no time.
